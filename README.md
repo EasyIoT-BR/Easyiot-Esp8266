@@ -21,7 +21,7 @@ An [Arduino](https://arduino.cc/) library for sending and receiving data to an o
 
 ```sh
 cd ~/Documents/Arduino/libraries/
-git clone LINK Easyiot-Esp8266
+git clone https://github.com/EasyIoT-BR/Easyiot-Esp8266 Easyiot-Esp8266
 ```
 
 ## API
